@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.76abb349.css",
-    "main.js": "/static/js/main.f99318e7.js",
+    "main.js": "/static/js/main.ab70119f.js",
     "static/media/Aman dubey.png": "/static/media/Aman dubey.d82e71e2a54e61495fb3.png",
     "index.html": "/index.html",
     "main.76abb349.css.map": "/static/css/main.76abb349.css.map",
-    "main.f99318e7.js.map": "/static/js/main.f99318e7.js.map"
+    "main.ab70119f.js.map": "/static/js/main.ab70119f.js.map"
   },
   "entrypoints": [
     "static/css/main.76abb349.css",
-    "static/js/main.f99318e7.js"
+    "static/js/main.ab70119f.js"
   ]
 }
